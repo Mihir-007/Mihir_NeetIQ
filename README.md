@@ -45,6 +45,7 @@ As part of my internship, I am working with an organization that leverages Artif
 * Problem Solving
 * UI/UX Design
 * Photography & Photo Editing
+* Arts and Creatives
 * Technology Exploration
 
 ---
