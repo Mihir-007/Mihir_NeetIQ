@@ -1,5 +1,6 @@
-# Hi there, I'm Mihir Mohanta 
-# B. Tech CSE AIML Student at UPES
+## Hi there, I'm Mihir Mohanta 
+### B. Tech CSE AIML Student at UPES
+### Samarth Internship at NeetIQ
 
 ## About Me
 
