@@ -53,15 +53,11 @@ As part of my internship, I am working with an organization that leverages Artif
 
 📧 Email: [mihir.16964@stu.upes.ac.in](mailto:your.email@example.com)
 
-💼 LinkedIn: inkedin.com/in/mihir-pasta6969/
+💼 LinkedIn: [www.linkedin.com/in/mihir-pasta6969](url)
 
 ---
 
 ## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME\&layout=compact)
 
 ---
 
