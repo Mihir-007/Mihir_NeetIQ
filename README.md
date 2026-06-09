@@ -24,8 +24,8 @@ This repository shows a simple demo use of Google's Gemini API using python.
 
 ### Note
 * GitHub does not allow files with personal API Keys to be pushed onto the main repository for security and various other reasons and will continue to block the push. 
-* You can save your API key as an environment variable on your system and use it when needed
-  * You can use the following code to do the same :
+* You can save your API key as an environment variable on your system and use it when needed to prevent the push-block
+  * You can use the following code in your terminal to do the same :
     $env:GEMINI_API_KEY="your_gemini_api_key"
 
 ---
