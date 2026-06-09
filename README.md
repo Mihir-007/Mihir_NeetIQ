@@ -35,5 +35,5 @@ This repository shows a simple demo use of Google's Gemini API using python.
 📧 Email: [mihir.16964@stu.upes.ac.in](mailto:your.email@example.com)
 
 💼 LinkedIn: [www.linkedin.com/in/mihir-pasta6969](url)
+
 ---
-xplore my repositories and connect with me.
