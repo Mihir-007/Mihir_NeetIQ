@@ -30,6 +30,19 @@ This repository shows a simple demo use of Google's Gemini API using python.
 
 ---
 
+## Python code:
+
+<img width="903" height="378" alt="Gemini_API_Demo_Codde" src="https://github.com/user-attachments/assets/2c1daddf-20f4-4f63-bbbc-5c33e5f90fb2" />
+
+---
+
+## Git commands:
+
+<img width="939" height="407" alt="Git_Add_Commit_Push" src="https://github.com/user-attachments/assets/dea03519-db68-4a82-a446-e307c2b1bc22" />
+
+
+---
+
 ## Connect With Me
 
 📧 Email: [mihir.16964@stu.upes.ac.in](mailto:your.email@example.com)
